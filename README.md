@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janardankeny&label=Profile%20views&color=0e75b6&style=flat" alt="janardankeny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janardankeny" alt="janardankeny" /></a> </p>
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Android,React.**
